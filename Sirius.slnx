@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="deffa867-8a3a-408c-963e-9f445981640a" />
+  <Project Path="Sirius/Sirius.vcxproj" Id="73e8adea-a463-42ca-87e7-48ab2522e4a3" />
+</Solution>
